@@ -1,4 +1,4 @@
 GIT-Test
 ========
 
-Tedt Repo
+Test Repo
